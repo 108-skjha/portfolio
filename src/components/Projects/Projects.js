@@ -43,7 +43,7 @@ function Projects() {
             <ProjectCard
               imgPath={editor}
               isBlog={false}
-              title="Editor.io"
+              title="Tic-Tac-Toe"
               description="Tic Tac Toe Game is a fun and interactive web-based game I developed using HTML, CSS, and JavaScript. It features a simple yet engaging user interface, responsive design, and real-time game logic that allows two players to compete in classic X and O style. The project demonstrates my understanding of DOM manipulation, event handling, and logic implementation in JavaScript."
               ghLink="https://github.com/108-skjha/tic-tac-toe"            
             />
