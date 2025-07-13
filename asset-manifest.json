@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.db54fc6e.css",
+    "main.js": "/portfolio/static/js/main.8fa6f9aa.js",
+    "static/js/770.074a10a6.chunk.js": "/portfolio/static/js/770.074a10a6.chunk.js",
+    "static/js/453.ad7768ec.chunk.js": "/portfolio/static/js/453.ad7768ec.chunk.js",
+    "static/media/poetry.png": "/portfolio/static/media/poetry.1bb1d0613d72ffe7ab0a.png",
+    "static/media/vapi1.jpeg": "/portfolio/static/media/vapi1.0e6816a4052691cb67f1.jpeg",
+    "static/media/home-bg.jpg": "/portfolio/static/media/home-bg.38545105ffb44bea97b3.jpg",
+    "static/media/home-main.svg": "/portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/skjha.pdf": "/portfolio/static/media/skjha.5bfd1bd4909c09f6fafc.pdf",
+    "static/media/mylogo.png": "/portfolio/static/media/mylogo.0cc76748b2514a179ae3.png",
+    "static/media/tic.jpeg": "/portfolio/static/media/tic.21dc327ed888cc3277f4.jpeg",
+    "static/media/avatar.svg": "/portfolio/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/portfolio/index.html",
+    "main.db54fc6e.css.map": "/portfolio/static/css/main.db54fc6e.css.map",
+    "main.8fa6f9aa.js.map": "/portfolio/static/js/main.8fa6f9aa.js.map",
+    "770.074a10a6.chunk.js.map": "/portfolio/static/js/770.074a10a6.chunk.js.map",
+    "453.ad7768ec.chunk.js.map": "/portfolio/static/js/453.ad7768ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db54fc6e.css",
+    "static/js/main.8fa6f9aa.js"
+  ]
+}
