@@ -1,4 +1,4 @@
-@2025 - 2030 Shrawan kumar jha
+@2025 Shrawan kumar jha
 run following commands:-
 
 1:- npm install
