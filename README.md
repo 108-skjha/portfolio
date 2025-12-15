@@ -1,6 +1,6 @@
 @2025 Shrawan kumar jha
 
-run following commands:-
+Do the following commands for run this project:-
 
 1:- npm install
 2:- npm start
