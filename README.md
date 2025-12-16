@@ -1,6 +1,6 @@
-@2025 - 2030 Shrawan kumar jha
-run following commands:-
+@2025 Shrawan kumar jha
+
+Perform the following commands for run this project:-
 
 1:- npm install
-2:- npm run dev
-3:- npm start
+2:- npm start
